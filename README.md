@@ -4,20 +4,13 @@ A security tool to perform various types of scans, including:
 
 ## Features:
 
-1) Scan for vulnerable printers
-    Scans for printers that are running on port 9100 and may be vulnerable to exploitation.
-2) Scan for Eternal Blue
-    Scans for hosts that have open port 445, which is a common port for the EternalBlue exploit.
-3)Scan for passwordless SSH services
-    Scans for hosts that have open port 22 and may be running passwordless SSH services.
-4) Nmap fingerprint
-    Performs an Nmap OS fingerprinting scan to identify the operating system running on a device. You will be prompted to enter a domain name for the scan.
-5) Nmap subdomain enumeration
-    Performs an Nmap subdomain enumeration scan to list all the subdomains of a given domain. You will be prompted to enter a domain name for the scan.
-6) Nmap exif data spider
-    Performs an Nmap Exif data spider scan to extract metadata from image files that are accessible via HTTP on a given domain. You will be prompted to enter a domain name for the scan.
-7) Quit
-    Exits the program.
+1) Scan for vulnerable printers - Scans for printers that are running on port 9100 and may be vulnerable to exploitation.
+2) Scan for Eternal Blue - Scans for hosts that have open port 445, which is a common port for the EternalBlue exploit.
+3)Scan for passwordless SSH services - Scans for hosts that have open port 22 and may be running passwordless SSH services.
+4) Nmap fingerprint - Performs an Nmap OS fingerprinting scan to identify the operating system running on a device. You will be prompted to enter a domain name for the scan.
+5) Nmap subdomain enumeration - Performs an Nmap subdomain enumeration scan to list all the subdomains of a given domain. You will be prompted to enter a domain name for the scan.
+6) Nmap exif data spider - Performs an Nmap Exif data spider scan to extract metadata from image files that are accessible via HTTP on a given domain. You will be prompted to enter a domain name for the scan.
+7) Quit - Exits the program.
 
 ## Usage
 
