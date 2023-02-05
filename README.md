@@ -19,18 +19,3 @@ The user selects a scan option by entering a number, and the appropriate scan is
 ## Note
 
 This tool is for educational purposes only and should not be used for unauthorized purposes. The authors of this tool are not responsible for any unauthorized or illegal use of the tool.
-Dustin Loring
-can you use markup language
-
-Sure! Here's an updated version of the previous response using GitHub-flavored Markdown:
-Simple Security Scanner
-
-A security tool to perform various types of scans, including:
-Features:
-
-    Scan for vulnerable printers
-        Scans for printers that are running on port 9100 and may be vulnerable to exploitation.
-    Scan for Eternal Blue
-        Scans for hosts that have open port 445, which is a common port for the EternalBlue exploit.
-    Scan for
-
