@@ -1,4 +1,4 @@
-#Simple Security Scanner - 
+# Simple Security Scanner - 
 Because even the most secure systems need a good laugh
 
 ## Description
